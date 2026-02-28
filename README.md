@@ -1,4 +1,4 @@
-# Modelo conceptual para la Red Social Pascualina.
+# Red Social Pascualina.
 
 > ### "Una base de datos bien diseñada no es solo un repositorio de tablas, sino el espejo digital de una comunidad; nuestro reto es capturar la dinámica de la interacción estudiantil para que los datos se conviertan en conexiones reales."
 > — *Adaptado de los fundamentos de diseño de Thomas Connolly.*
