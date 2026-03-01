@@ -1,6 +1,6 @@
 # Institución Universitaria Pascual Bravo.
 <p align="center">
-  <img src="logo.png" width="200">
+  <img src="LOGO PASCUAL BRAVO.png" width="200">
 </p>
 
 ## Información del Curso
