@@ -5,6 +5,7 @@
 
 ## Información del Curso
 * **Docente:** Jaime Ernesto Soto Urdaneta.
+* **Programa:** Tecnología en Desarrollo de Software.
 * **Curso:**  Base de Datos 1.
 * **Semestre:** 2026-1.
 
